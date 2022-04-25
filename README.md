@@ -2,14 +2,26 @@
 
 
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# <div align="center">I'm Jessada, a Frontend developer 👨‍💻 
+currently I'm finding a remoted work 🚀 
+and a opportunities to implement my skills for invent a great solution to make a better world. 🌎</div>  
+  
 
+  
+  
+
+- 🌱 I’m currently learning about UX/UI that allowed me to design a good user's experiences and beautiful web site  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I switch my career path from a mechanical engineer.  
+  
+
+<br/>  
