@@ -1,7 +1,6 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/80153191/165044254-3932efbe-1456-4aea-bc39-6dee78cfe252.png)
 
 
-**DevArtifacTs/DevArtifacTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
