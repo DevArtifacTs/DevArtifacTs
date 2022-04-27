@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I switch my career path from a mechanical engineer.  
   
-- * 🖥️  See my portfolio at [Visit my portfolio](http://https://jessada-portfolio.vercel.app/)
+- * 🖥️  See my portfolio at [Jessada's portfolio](http://https://jessada-portfolio.vercel.app/)
   
 
 <br/>  
