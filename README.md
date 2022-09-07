@@ -14,6 +14,8 @@
   
 
 - ⚡ Fun fact: I switch my career path from a mechanical engineer.  
+
+- 🎮 I just learning how to create a terminal game, 'Rock Paper Scrissors' game: https://replit.com/@DevArtifacTs/rock-paper-scrissors
   
 - 🖥️  See my portfolio at [Jessada's portfolio](https://jessada-portfolio.vercel.app/)
   
